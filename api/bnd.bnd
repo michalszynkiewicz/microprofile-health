@@ -3,3 +3,5 @@
 Bundle-SymbolicName: org.eclipse.microprofile.health
 Bundle-Name: MicroProfile Health Check Bundle
 Bundle-License: Apache License, Version 2.0
+Implementation-Version: ${project.version}
+Specification-Version: ${project.version}
